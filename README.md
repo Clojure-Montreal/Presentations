@@ -1,2 +1,2 @@
 # Presentations
-A collective repository for Slides and code examples from previous presentations
+A collective repository for slides and code examples from previous presentations
