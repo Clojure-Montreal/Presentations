@@ -1,2 +1,2 @@
 # Presentations
-Documents from previous presentations
+A colloctive repository for Slides and code examples from previous presentations
